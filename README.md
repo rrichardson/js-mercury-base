@@ -21,3 +21,10 @@ Compile time utilities include:
 * uglify for minimizing js code
 
 The entire minified result comes in at just under 68kB, or about 20kB gzip'd. Not too shabby.
+
+To use: run
+```bash
+npm install
+grunt
+http-server
+```
