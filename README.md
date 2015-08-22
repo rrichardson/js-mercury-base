@@ -9,7 +9,7 @@ Runtime libs include:
   * DOM node creation DSL
 * xhr for http/s requests
 * babel for cs6 bits
-
+* skeleton for lightweight, responsive css
 
 
 Compile time utilities include:
@@ -19,6 +19,7 @@ Compile time utilities include:
 * babel for cs6 to cs5 compilation
 * browserify for concatting require()'d modules
 * uglify for minimizing js code
+* mincss to mash up the css
 
 The entire minified result comes in at just under 68kB, or about 20kB gzip'd. Not too shabby.
 
